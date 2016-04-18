@@ -1,2 +1,2 @@
 # SensorQualityChecker
-Sensor Quality Checker exercise for Rise Science internship
+Sensor Quality Checker exercise
